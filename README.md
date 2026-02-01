@@ -11,7 +11,7 @@
 **Via Github**
 This package can be installed in the Unity Package Manager using the following git URL.
 ```
-https://github.com/hibzzgames/Hibzz.DependencyResolver.git
+https://github.com/davevanegdom/DependencyResolver.git
 ```
 
 Alternatively, you can download the latest release from the [releases page](https://github.com/hibzzgames/Hibzz.DependencyResolver/releases) and manually import the package into your project.
